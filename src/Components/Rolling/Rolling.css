@@ -1,0 +1,19 @@
+.buttonStyle {
+    color: white;
+    background: #222;
+    border: none;
+    outline: none;
+    padding: 0.5rem 1rem;
+    width: 15em;
+    padding: 1.5em;
+    margin-top: 3em;
+    border-radius: 10px;
+}
+
+.buttonStyle:hover {
+    cursor: pointer;
+}
+
+.center {
+    text-align: center;
+}
